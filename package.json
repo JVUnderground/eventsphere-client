@@ -1,0 +1,12 @@
+{
+  "name": "@eventsphere/client",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+  },
+  "author": "João Henrique Carneiro AKA jhcarneiro AKA JVUnderground",
+  "license": "ISC",
+  "repository": "https://github.com/JVUnderground/eventsphere-client.git"
+}
