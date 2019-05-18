@@ -1,6 +1,6 @@
 {
   "name": "@eventsphere/client",
-  "version": "0.1.0",
+  "version": "0.1.1-0",
   "description": "",
   "main": "src/app.js",
   "scripts": {
